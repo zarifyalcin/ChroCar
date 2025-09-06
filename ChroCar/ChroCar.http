@@ -1,0 +1,6 @@
+@ChroCar_HostAddress = http://localhost:5201
+
+GET {{ChroCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
